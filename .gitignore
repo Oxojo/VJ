@@ -1,0 +1,10 @@
+node_modules/
+out/
+release/
+coverage/
+.npm-cache/
+*.log
+.DS_Store
+Thumbs.db
+*.vj.json.autosave
+*.vj.json.tmp
